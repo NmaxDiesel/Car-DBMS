@@ -6,3 +6,8 @@ Dalam proyek ini, saya diberikan tugas untuk membangun sebuah database relasiona
 
 
 ## Background
+
+
+
+
+## Tujuan
