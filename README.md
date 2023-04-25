@@ -7,6 +7,7 @@ Dalam proyek ini, saya diberikan tugas untuk membangun sebuah database relasiona
 
 ## Background
 
+Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien.
 
 
 
