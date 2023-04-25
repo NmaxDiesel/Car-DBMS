@@ -14,6 +14,8 @@ Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database r
 
 ## Tujuan
 
+Salah satu fitur utama dari proyek ini adalah memungkinkan setiap pengguna aplikasi untuk menawarkan lebih dari satu mobil bekas.
+
 ## Requirements
 
 ## Futureworks
