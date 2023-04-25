@@ -14,7 +14,7 @@ Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database r
 
 ## Tujuan
 
-Salah satu fitur utama dari proyek ini adalah memungkinkan setiap pengguna aplikasi untuk menawarkan lebih dari satu mobil bekas.
+Salah satu fitur utama dari proyek ini adalah memungkinkan setiap pengguna aplikasi untuk menawarkan lebih dari satu mobil bekas. Sebelum dapat menjual mobilnya, pengguna harus melengkapi data dirinya terlebih dahulu, seperti nama, kontak, dan domisili lokasi.
 
 ## Requirements
 
