@@ -18,4 +18,6 @@ Salah satu fitur utama dari proyek ini adalah memungkinkan setiap pengguna aplik
 
 ## Requirements
 
+Project ini memerlukan
+
 ## Futureworks
