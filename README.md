@@ -8,7 +8,7 @@ Dalam proyek ini, saya diberikan tugas untuk membangun sebuah database relasiona
 ## Background
 Mobil bekas atau mobil secondhand merupakan kendaraan bermotor yang pernah dimiliki dan digunakan oleh orang lain sebelumnya. 
 
-Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Selanjutnya, saya juga harus menginputkan data ke dalam database dan melakukan analisis sederhana terhadap data tersebut. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.
+Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Selanjutnya, saya juga harus menginputkan data ke dalam database dan melakukan analisis sederhana terhadap data tersebut. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.  Seiring dengan meningkatnya harga mobil baru dan biaya hidup yang semakin tinggi, banyak masyarakat yang mulai mempertimbangkan untuk membeli mobil bekas sebagai alternatif.
 
 
 
