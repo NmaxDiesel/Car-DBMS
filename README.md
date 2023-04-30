@@ -19,6 +19,8 @@ Salah satu fitur utama dari proyek ini adalah memungkinkan setiap pengguna aplik
 Sebuah desain DBMS di mana:
 - Pengguna dapat menawarkan mobil bekas mereka melalui iklan
 - Pengguna dapat mencari mobil yang ditawarkan berdasarkan lokasi penjual, merek mobil, dan jenis body mobil.
+- Jika calon pembeli tertarik dengan mobil tertentu, mereka dapat menawar harga produk jika fitur tawar diizinkan oleh penjual.
+
 
 
 
