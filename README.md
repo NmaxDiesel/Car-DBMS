@@ -21,6 +21,8 @@ Sebuah desain DBMS di mana:
 - Pengguna dapat mencari mobil yang ditawarkan berdasarkan lokasi penjual, merek mobil, dan jenis body mobil.
 - Jika calon pembeli tertarik dengan mobil tertentu, mereka dapat menawar harga produk jika fitur tawar diizinkan oleh penjual.
 
+Perlu diketahui bahwasannya transaksi pembelian akan dilakukan di luar aplikasi sehingga tidak termasuk dalam cakupan proyek ini.
+
 
 
 
