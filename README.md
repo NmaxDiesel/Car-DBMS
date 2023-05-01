@@ -2,13 +2,13 @@
 
 Database Design for Online Car Sales Platform
 
-Dalam proyek ini, saya diberikan tugas untuk membangun sebuah database relasional untuk sebuah situs web yang menyediakan layanan penjualan mobil bekas. Proyek ini memiliki beberapa fitur dan batasan yang harus dipahami dengan baik.
+Dalam proyek ini, saya diberikan tugas untuk membangun sebuah database relasional untuk sebuah situs web yang menyediakan layanan penjualan mobil bekas. Proyek ini memiliki beberapa fitur dan batasan yang harus dipahami dengan baik.  Seiring dengan meningkatnya harga mobil baru dan biaya hidup yang semakin tinggi, banyak masyarakat yang mulai mempertimbangkan untuk membeli mobil bekas sebagai alternatif.
 
 
 ## Background
 Mobil bekas atau mobil secondhand merupakan kendaraan bermotor yang pernah dimiliki dan digunakan oleh orang lain sebelumnya. 
 
-Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Selanjutnya, saya juga harus menginputkan data ke dalam database dan melakukan analisis sederhana terhadap data tersebut. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.  Seiring dengan meningkatnya harga mobil baru dan biaya hidup yang semakin tinggi, banyak masyarakat yang mulai mempertimbangkan untuk membeli mobil bekas sebagai alternatif.
+Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Selanjutnya, saya juga harus menginputkan data ke dalam database dan melakukan analisis sederhana terhadap data tersebut. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.
 
 
 
