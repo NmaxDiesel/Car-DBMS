@@ -20,6 +20,8 @@ Dengan database yang baik, Anda dapat mempercepat proses pencarian dan penyelesa
 - Memudahkan analisis data
 Dengan sistem database yang baik, data dapat diolah dan dianalisis lebih mudah dan cepat. Data ini dapat digunakan untuk memperbaiki strategi pemasaran, memahami perilaku pelanggan, dan meningkatkan kinerja bisnis secara keseluruhan.
 
+Dengan demikian, memiliki sistem database yang baik sangat penting bagi marketplace mobil bekas agar dapat menjalankan bisnis secara efektif dan efisien, serta meningkatkan pengalaman pelanggan.
+
 Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.
 
 
