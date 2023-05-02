@@ -10,7 +10,9 @@ Mobil bekas atau mobil secondhand merupakan kendaraan bermotor yang pernah dimil
 
 Untuk membuat sebuah website penjualan mobil bekas, perlu dibuatkan sistem database yang efisien dan efektif. Beberapa hal yang perlu dipertimbangkan dalam merancang database tersebut antara lain harus bisa menampilkan informasi tentang kendaraan, harga, dan informasi penjual. Selain itu, client saya ingin agar database system tersebut mudah diakses dan dioptimalkan untuk performa website yang lebih baik.
 
-Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Selanjutnya, saya juga harus menginputkan data ke dalam database dan melakukan analisis sederhana terhadap data tersebut. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.
+Membuat website dengan sistem database yang bagus sangat penting untuk usaha marketplace mobil bekas karena beberapa alasan berikut:
+
+Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.
 
 
 
