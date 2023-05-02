@@ -18,7 +18,7 @@ Sebagai marketplace mobil bekas, Anda perlu menyimpan data transaksi pelanggan, 
 Dengan database yang baik, Anda dapat mempercepat proses pencarian dan penyelesaian transaksi, serta menyediakan data pelanggan yang terorganisir dengan baik. Hal ini dapat meningkatkan efisiensi operasional dan memungkinkan Anda untuk menangani lebih banyak transaksi dalam waktu yang lebih singkat.
 
 - Memudahkan analisis data
-Dengan sistem database yang baik, data dapat diolah dan dianalisis lebih mudah dan cepat.
+Dengan sistem database yang baik, data dapat diolah dan dianalisis lebih mudah dan cepat. Data ini dapat digunakan untuk memperbaiki strategi pemasaran, memahami perilaku pelanggan, dan meningkatkan kinerja bisnis secara keseluruhan.
 
 Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.
 
