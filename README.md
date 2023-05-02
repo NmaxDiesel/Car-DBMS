@@ -2,6 +2,9 @@
 
 Database Design for Online Car Sales Platform
 
+![3075838](https://user-images.githubusercontent.com/123163060/235750207-c1f9b82a-2bc6-4888-b42b-58c6c20a99df.jpg)
+
+
 Dalam proyek ini, saya diberikan tugas untuk membangun sebuah database relasional untuk sebuah situs web yang menyediakan layanan penjualan mobil bekas. Proyek ini memiliki beberapa fitur dan batasan yang harus dipahami dengan baik.  Seiring dengan meningkatnya harga mobil baru dan biaya hidup yang semakin tinggi, banyak masyarakat yang mulai mempertimbangkan untuk membeli mobil bekas sebagai alternatif.
 
 
