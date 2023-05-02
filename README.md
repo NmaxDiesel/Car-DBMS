@@ -17,7 +17,7 @@ Sebagai marketplace mobil bekas, Anda perlu menyimpan data transaksi pelanggan, 
 - Meningkatkan efisiensi
 Dengan database yang baik, Anda dapat mempercepat proses pencarian dan penyelesaian transaksi, serta menyediakan data pelanggan yang terorganisir dengan baik. Hal ini dapat meningkatkan efisiensi operasional dan memungkinkan Anda untuk menangani lebih banyak transaksi dalam waktu yang lebih singkat.
 
--Memudahkan analisis data
+- Memudahkan analisis data
 
 Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database relasional yang efisien. Dalam proyek ini, saya harus memastikan bahwa database yang saya bangun dapat menangani semua informasi yang diperlukan dan sistem pengambilan data dapat berjalan dengan baik untuk memenuhi kebutuhan pengguna.
 
