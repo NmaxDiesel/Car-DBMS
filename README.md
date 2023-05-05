@@ -32,14 +32,12 @@ Sebagai Software & Data Engineer, saya diminta untuk membangun sebuah database r
 
 ## Tujuan
 
-Salah satu fitur utama dari proyek ini adalah memungkinkan setiap pengguna aplikasi untuk menawarkan lebih dari satu mobil bekas. Sebelum dapat menjual mobilnya, pengguna harus melengkapi data dirinya terlebih dahulu, seperti nama, kontak, dan domisili lokasi. Pengguna dapat menawarkan mobil bekas mereka melalui iklan yang akan ditampilkan oleh situs web. Setiap iklan harus mencantumkan beberapa informasi penting seperti merek mobil, model, jenis body mobil, tipe mobil, tahun pembuatan mobil, serta deskripsi lain seperti warna dan jarak tempuh.
+Salah satu fitur utama dari proyek ini adalah memungkinkan setiap pengguna aplikasi untuk menawarkan lebih dari satu mobil bekas. Sebelum dapat menjual mobilnya, pengguna harus melengkapi data dirinya terlebih dahulu, seperti nama, kontak, dan domisili lokasi. Pengguna dapat menawarkan mobil bekas mereka melalui iklan yang akan ditampilkan oleh situs web. Setiap iklan harus mencantumkan beberapa informasi penting seperti merek mobil, model, jenis body mobil, tipe mobil, tahun pembuatan mobil, serta deskripsi lain seperti warna dan jarak tempuh. Perlu diketahui bahwasannya transaksi pembelian akan dilakukan di luar aplikasi sehingga tidak termasuk dalam cakupan proyek ini.
 
-Desain DBMS yang dirancang mampu melakukan tugas-tugas berikut:
+Desain DBMS yang dirancang harus mampu melakukan tugas-tugas berikut:
 - Pengguna dapat menawarkan mobil bekas mereka melalui iklan
 - Pengguna dapat mencari mobil yang ditawarkan berdasarkan lokasi penjual, merek mobil, dan jenis body mobil.
 - Jika calon pembeli tertarik dengan mobil tertentu, mereka dapat menawar harga produk jika fitur tawar diizinkan oleh penjual.
-
-Perlu diketahui bahwasannya transaksi pembelian akan dilakukan di luar aplikasi sehingga tidak termasuk dalam cakupan proyek ini.
 
 
 
