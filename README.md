@@ -1,6 +1,6 @@
 # DBMS
 
-Database Design for Online Car Sales Platform using PostgreSQL
+Database Design for Online Car Sales Platform created using PostgreSQL.
 
 ![3075838](https://user-images.githubusercontent.com/123163060/235750207-c1f9b82a-2bc6-4888-b42b-58c6c20a99df.jpg)
 
