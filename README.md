@@ -1,4 +1,4 @@
-# DBMS
+# Car DBMS
 
 Database Design for Online Car Sales Platform created using PostgreSQL.
 
