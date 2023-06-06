@@ -44,6 +44,8 @@ Desain DBMS yang dirancang harus mampu melakukan tugas-tugas berikut:
 
 ## Requirements
 
+input doc
+
 Project ini memerlukan
 
 ## Step by step
