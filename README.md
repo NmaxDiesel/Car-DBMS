@@ -5,7 +5,7 @@ Database Design for Online Car Sales Platform created using PostgreSQL.
 ![3075838](https://user-images.githubusercontent.com/123163060/235750207-c1f9b82a-2bc6-4888-b42b-58c6c20a99df.jpg)
 
 
-In this project, I was given the task of building a relational database for a website that provides used car sales services. Proyek ini memiliki beberapa fitur dan batasan yang harus dipahami dengan baik.  Seiring dengan meningkatnya harga mobil baru dan biaya hidup yang semakin tinggi, banyak masyarakat yang mulai mempertimbangkan untuk membeli mobil bekas sebagai alternatif.
+In this project, I was given the task of building a relational database for a website that provides used car sales services. This project has several features and limitations that should be well understood. Seiring dengan meningkatnya harga mobil baru dan biaya hidup yang semakin tinggi, banyak masyarakat yang mulai mempertimbangkan untuk membeli mobil bekas sebagai alternatif.
 
 
 ## Background
