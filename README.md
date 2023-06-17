@@ -9,7 +9,7 @@ In this project, I was given the task of building a relational database for a we
 
 
 ## Background
-Mobil bekas atau mobil secondhand merupakan kendaraan bermotor yang pernah dimiliki dan digunakan oleh orang lain sebelumnya. Animo masyarakat terhadap mobil bekas cenderung meningkat seiring dengan semakin tingginya harga mobil baru dan adanya kebutuhan untuk memiliki kendaraan pribadi dengan anggaran yang terbatas.
+A used car or secondhand car is a motorized vehicle that has been owned and used by someone else before. Animo masyarakat terhadap mobil bekas cenderung meningkat seiring dengan semakin tingginya harga mobil baru dan adanya kebutuhan untuk memiliki kendaraan pribadi dengan anggaran yang terbatas.
 
 Untuk membuat sebuah website penjualan mobil bekas, perlu dibuatkan sistem database yang efisien dan efektif. Beberapa hal yang perlu dipertimbangkan dalam merancang database tersebut antara lain harus bisa menampilkan informasi tentang kendaraan, harga, dan informasi penjual. Selain itu, client saya ingin agar database system tersebut mudah diakses dan dioptimalkan untuk performa website yang lebih baik.
 
