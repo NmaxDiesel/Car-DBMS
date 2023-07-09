@@ -11,7 +11,7 @@ In this project, I was given the task of building a relational database for a we
 ## Background
 A used car or secondhand car is a motorized vehicle that has been owned and used by someone else before. The public's interest in used cars tends to increase along with the higher price of new cars and the need to own a personal vehicle with a limited budget.
 
-To create a used car sales website, it is necessary to create an efficient and effective database system. Some things to consider in designing the database include being able to display information about vehicles, prices, and seller information. Selain itu, client saya ingin agar database system tersebut mudah diakses dan dioptimalkan untuk performa website yang lebih baik.
+To create a used car sales website, it is necessary to create an efficient and effective database system. Some things to consider in designing the database include being able to display information about vehicles, prices, and seller information. In addition, my client wanted the database system to be easily accessible and optimized for better website performance.
 
 Membuat website dengan sistem database yang bagus sangat penting untuk usaha marketplace mobil bekas karena beberapa alasan berikut:
 - Menyimpan data transaksi
