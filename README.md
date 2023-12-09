@@ -50,6 +50,8 @@ Project ini memerlukan
 
 list
 
+scheduled to continue
+
 ## Step by step
 
 ## Futureworks
